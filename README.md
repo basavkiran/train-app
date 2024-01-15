@@ -21,6 +21,7 @@ The app is designed to adapt to various screen sizes, ensuring a consistent and 
 In summary, the Passenger Counter App is a powerful tool that streamlines passenger tracking and management at train stations, providing station staff with valuable insights and real-time information for effective decision-making.
 
 TECHNOLOGY USED
+
 html
 css
 javascript
