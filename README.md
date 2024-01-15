@@ -22,6 +22,6 @@ In summary, the Passenger Counter App is a powerful tool that streamlines passen
 
 TECHNOLOGY USED
 
-html
-css
+html,
+css,
 javascript
