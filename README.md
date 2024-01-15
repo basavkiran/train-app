@@ -1,4 +1,4 @@
-# train-app
+ABOUT
 The Passenger Counter App for a train station, crafted using HTML, CSS, and JavaScript, is a user-friendly solution aimed at efficiently tracking and managing passenger counts. Below is a detailed description of the app's features:
 
 1. Increment Button:
@@ -19,3 +19,8 @@ A section is dedicated to displaying historical passenger data, allowing staff t
 The app is designed to adapt to various screen sizes, ensuring a consistent and user-friendly experience across different devices.
 
 In summary, the Passenger Counter App is a powerful tool that streamlines passenger tracking and management at train stations, providing station staff with valuable insights and real-time information for effective decision-making.
+
+TECHNOLOGY USED
+html
+css
+javascript
